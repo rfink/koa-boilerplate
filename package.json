@@ -1,0 +1,17 @@
+{
+  "name": "koa-boilerplate",
+  "version": "0.0.0",
+  "description": "Koa..js server app boilerplate",
+  "main": "bin/koa-boilerplate",
+  "bin": {
+    "koa-boilerplate": "./bin/koa-boilerplate"
+  },
+  "author": [
+    "Ryan Fink <ryanjfink@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ncp": "0.6.0",
+    "commander": "2.3.0"
+  }
+}
