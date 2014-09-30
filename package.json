@@ -1,6 +1,6 @@
 {
   "name": "koa-boilerplate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Koa..js server app boilerplate",
   "main": "bin/koa-boilerplate",
   "bin": {
